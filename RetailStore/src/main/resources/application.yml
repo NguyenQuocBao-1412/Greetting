@@ -1,0 +1,5 @@
+spring:
+  security:
+    user:
+      name: kaitokid
+      password: 123456
